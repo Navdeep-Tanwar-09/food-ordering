@@ -1,6 +1,7 @@
 # food-ordering
 
 https://github.com/DulanjaliSenarathna/mern-food-delivery-app
+https://docs.stripe.com/testing
 
 
 Table of Contents
